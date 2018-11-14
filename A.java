@@ -1,1 +1,3 @@
-
+class A{
+  void welcome()
+}
